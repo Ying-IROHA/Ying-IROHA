@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./assets/signal-lab.svg" width="100%" alt="Xiyu Cao - Software Developer Selection" />
-</div>
+
 
 <br />
 
