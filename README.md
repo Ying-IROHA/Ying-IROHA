@@ -11,17 +11,6 @@
 
 ---
 
-## The House Pour
-
-I'm **Xiyu Cao**, a software developer with a Master of Information Technology
-background at Monash University and a Game Engineering foundation from Newcastle
-University. My work blends mobile apps, backend services, cloud deployment,
-computer vision, and software quality.
-
-I like the point where an idea becomes usable: the prototype runs, the edge cases
-are visible, the deployment story makes sense, and the system can explain itself
-without a long apology.
-
 ## Tasting Notes
 
 | Note | Profile |
