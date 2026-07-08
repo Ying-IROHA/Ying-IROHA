@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="assets/pixel-cat.svg" width="112" alt="a small pixel cat, blinking" />
+  <img src="https://www.nyan.cat/cats/original.gif" width="300" alt="Nyan Cat" />
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4D4D,20:FF9F40,40:FFE24D,60:4DDB6B,80:4DA6FF,100:A366FF&height=16" width="100%" alt="" />
 
   <h1>🕹️ IROHA.SAV — Character Profile</h1>
 

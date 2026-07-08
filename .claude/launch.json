@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "scratchpad-static",
+      "runtimeExecutable": "py",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "4173",
+        "--directory",
+        "C:/Users/ALIENWARE/AppData/Local/Temp/claude/C--Users-ALIENWARE-Desktop-Programs-GithubREADME/b2ba820e-84c4-49c5-afd3-fb3e72b7bfa4/scratchpad"
+      ],
+      "port": 4173
+    }
+  ]
+}
