@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FCE9EF,50:FFD9C7,100:FF6FA0&section=header&animation=fadeIn" width="100%" alt="" />
-</div>
-
-<div align="center">
-  <img src="https://www.nyan.cat/cats/original.gif" width="300" alt="Nyan Cat" />
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4D4D,20:FF9F40,40:FFE24D,60:4DDB6B,80:4DA6FF,100:A366FF&height=16" width="100%" alt="" />
+  <img src="assets/nyan-scene.gif" width="100%" alt="Nyan Cat flying through a rainbow trail" />
 
   <h1>🕹️ IROHA.SAV — Character Profile</h1>
 
